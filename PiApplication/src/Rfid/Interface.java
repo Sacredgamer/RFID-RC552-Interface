@@ -6,7 +6,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * This class provides the mapping between the python files and
+ * This class provides the mapping between the python files.
  *
  * @author Sacredgamer
  */
